@@ -8,7 +8,7 @@ public class BoxMain1 {
         System.out.println("integer = " + integerBox.get());
 
         StringBox sb = new StringBox();
-        sb.set("Hello, World!");
+        sb.set("Hi !");
         System.out.println("str = "+sb.get());
     }
 }
